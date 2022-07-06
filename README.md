@@ -1,2 +1,3 @@
 # AlgoPractice
-Practice implementing some algos
+Practice implementing Prim's Algo
+<br/>Input is an undirected graph
